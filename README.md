@@ -1,5 +1,5 @@
 # Nummath
 # Nummath
 is a simple,easy to use math libary.
-Download at <insert my link>
+Download at https://pypi.org/project/nummath/ or use pip install nummath to install!
  
