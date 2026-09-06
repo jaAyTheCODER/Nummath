@@ -2,4 +2,4 @@ __pycache__/
 *.py[codz]
 *$py.class
 
-.egg_info/
+nummath.egg-info/
