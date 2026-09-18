@@ -10,5 +10,5 @@ authors = [
 ]
 description = "A custom math library"
 requires-python = ">=3.7"
-license = {text = "MIT"}
+license = {text = "BSD-3-Clause"}
 keywords = ["math", "calculator", "equation"]
